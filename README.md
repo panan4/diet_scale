@@ -42,6 +42,7 @@ div ul li {margin: 5px;}
 //변수명 예) userHeight, userWeight, normal_w
 
 //선언
+
 const height = document.getElementsByClassName('height')
 
 const weight = document.getElementsByClassName('weight')
