@@ -1,4 +1,5 @@
 # diet_scale
+-HTML-
 
     <div>
         <h1>다이어트 체중계</h1>
@@ -19,6 +20,7 @@
         
     </div>
     
+-CSS-
 body * {margin: 0 auto;}
 
 div {width: 250px; height: 150px; background-color: beige; border: 1px solid black; margin-top: 30px;}
@@ -30,6 +32,9 @@ div p {border-bottom: 1px solid black; padding: 5px; font-size: 1.05rem;}
 div ul {}
 
 div ul li {margin: 5px;}
+
+
+-JS-
 
 //계산식) 적정체중 = (본인신장-100)*0.9
 
