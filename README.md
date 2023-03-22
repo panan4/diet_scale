@@ -21,6 +21,7 @@
     </div>
     
 -CSS-
+
 body * {margin: 0 auto;}
 
 div {width: 250px; height: 150px; background-color: beige; border: 1px solid black; margin-top: 30px;}
